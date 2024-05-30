@@ -11,8 +11,8 @@ Setup:
 - run in terminal: npm run dev
 - enjoy! 
 
-Default credentials are: 
-USER ID : superadmin@example.com
+Default credentials are: <br>
+USER ID : superadmin@example.com <br>
 PASSWORD : password
 
 ![image](https://github.com/ltfij/product-dashboard/assets/11470019/dc055532-c5d4-4e36-81d8-91af7c69fe93)
